@@ -1,3 +1,3 @@
 export interface SearchProps {
-  width: number
+  width: number,
 }

@@ -1,4 +1,4 @@
-import './App.css'
+import './App.scss'
 import {BaseLayout} from "./components/BaseLayout/BaseLayout.tsx";
 
 function App() {

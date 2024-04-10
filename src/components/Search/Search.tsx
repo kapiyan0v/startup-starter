@@ -2,13 +2,15 @@ import { TextField } from "@mui/material";
 import { SearchProps } from "../../types";
 
 export const Search = ({ width }: SearchProps) => {
+
   return (
     <>
       <TextField
-        sx={{ width: `${width}px`, color: "#fafafa"}}
-        placeholder="Поиск"
-        size="small"
+        id="outlined-basic"
+        variant="outlined"
         color="primary"
+        focused
+        sx={{ width: `${width}px` }}
       />
     </>
   )

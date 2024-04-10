@@ -6,7 +6,7 @@ export const Header = () => {
     <div className={style.header}>
       <div className={style.container}>
         <div className={style.search}>
-          <Search width={100} />
+          <Search width={200} />
         </div>
       </div>
     </div>
