@@ -5,10 +5,14 @@
   color-scheme: dark;
   color: #dfdfd6;
 
-
   background-color: #1b1b1f;
 
   overflow-x: hidden;
+}
+
+* {
+  margin: 0;
+  padding: 0;
 }
 
 

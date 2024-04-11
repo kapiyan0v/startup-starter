@@ -1,8 +1,7 @@
 import './App.scss'
-import {BaseLayout} from "./components/BaseLayout/BaseLayout.tsx";
+import {BaseLayout} from "./components/base-layout";
 
 function App() {
-
   return (
     <BaseLayout />
   )
